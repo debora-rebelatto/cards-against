@@ -1,6 +1,6 @@
 # Cards Against
 
-Unfinished.
+Unfinished.  
 Flutter project built for playing Cards Against Humanity with friends.
 
 ## Getting Started
